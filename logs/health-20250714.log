@@ -1,0 +1,10 @@
+[2025-07-14 07:02:25] Starting health check...
+[2025-07-14 07:02:25] ✅ Disk usage is OK: 36%
+[2025-07-14 07:02:25] ✅ Memory usage is OK: 19%
+[2025-07-14 07:02:25] ✅ CPU usage is OK: 9%
+[2025-07-14 07:02:25] Health check completed.
+[2025-07-14 07:10:22] Starting health check...
+[2025-07-14 07:10:22] ⚠️ Disk usage on / is 36%
+[2025-07-14 07:10:22] ✅ Memory usage is OK: 20%
+[2025-07-14 07:10:22] ✅ CPU usage is OK: 28%
+[2025-07-14 07:10:22] Health check completed.
